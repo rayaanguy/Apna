@@ -1,0 +1,18 @@
+body {
+    background-color :burlywood ;
+}
+h1{
+    color : chocolate ;
+    text-align : center ;
+}
+img{
+    float : right;
+}
+.b{
+    width : 50%;
+}
+button{
+    background-color : chocolate ;
+    height : 50px ;
+    width : 150px ;
+}

@@ -1,2 +1,1 @@
-# Information about SDG -
-cd
+# The Recipe -
