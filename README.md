@@ -8,4 +8,4 @@ This website created using html and css and js
 ## 4) Inspiration ÷
 I am a foody guy  i thought to create a recipe book
  ## 5) Things I wanna say ÷
-I wanna say new update would come if it is bad sorry for that
+New update coming with briyani amd sandwich 
