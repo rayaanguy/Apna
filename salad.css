@@ -4,3 +4,23 @@ body{
 h1{
     text-align : center  ;
 }
+img {
+    float : right ;
+}
+.i {
+    background-color : lightseagreen ;
+    height :200px ;
+    width : 500px ;
+    padding : 20px  12px ;
+}
+.ii{ 
+    background-color : orange ;
+    height : 200px ;
+    width : 500px ;
+    padding : 20px 12px ;
+}
+button{
+    background-color : lightblue ;
+    height : 50px ;
+    width : 150px ;
+}
