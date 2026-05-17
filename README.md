@@ -3,8 +3,10 @@
 It is a recipe book with 3 recipe created using html and css
 ## 2) Instructions on how to try your project out ÷
 You can access the blog by clicking on this link 
+https://rayaanguy.github.io/Apna/
+
 ## 3) Technology and tools used ÷
-This website created using html and css and js 
+This website created using html and css 
 ## 4) Inspiration ÷
 I am a foody guy  i thought to create a recipe book
  ## 5) Things I wanna say ÷
